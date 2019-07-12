@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rang2/static/css/main.3abfa1b3.chunk.css",
+    "main.js": "/rang2/static/js/main.910a141b.chunk.js",
+    "main.js.map": "/rang2/static/js/main.910a141b.chunk.js.map",
+    "runtime~main.js": "/rang2/static/js/runtime~main.a78fee37.js",
+    "runtime~main.js.map": "/rang2/static/js/runtime~main.a78fee37.js.map",
+    "static/js/2.7227ce8d.chunk.js": "/rang2/static/js/2.7227ce8d.chunk.js",
+    "static/js/2.7227ce8d.chunk.js.map": "/rang2/static/js/2.7227ce8d.chunk.js.map",
+    "index.html": "/rang2/index.html",
+    "precache-manifest.69d86ead6c8cda77e2ff1934cf7c6d4d.js": "/rang2/precache-manifest.69d86ead6c8cda77e2ff1934cf7c6d4d.js",
+    "service-worker.js": "/rang2/service-worker.js",
+    "static/css/main.3abfa1b3.chunk.css.map": "/rang2/static/css/main.3abfa1b3.chunk.css.map",
+    "static/media/enac.png": "/rang2/static/media/enac.b7b846c5.png",
+    "static/media/logo.svg": "/rang2/static/media/logo.5d5d9eef.svg",
+    "static/media/Jumbotron.css": "/rang2/static/media/rag6.0eba2008.jpg",
+    "static/media/home.css": "/rang2/static/media/rag5.1b34bb37.jpg",
+    "static/media/rang-logo.png": "/rang2/static/media/rang-logo.dd94cd1b.png"
+  }
+}
